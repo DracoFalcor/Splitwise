@@ -1,0 +1,17 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú£ÿ­8»ş‹»ø.
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8Ùà¯»ø.
+:
+java:S2119&"Save and re-use this "Random".(¼İÅf8ãÙ£ºø.
+j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(×ä‘şÿÿÿÿ8õŸŒºø.
+X	java:S125"<This block of commented-out lines of code should be removed.(êÁ†¾8íÄ›»ø.
+L
+java:S3740"/Provide the parametrized type for this generic.(™¾ø8ƒ´›»ø.
+L
+java:S3740"/Provide the parametrized type for this generic.(™¾ø8ƒ´›»ø.
+j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(×ä‘şÿÿÿÿ8õŸŒºø.
+d
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ÖÂÚú8ÖØ‰»ø.
+¤
+java:S2681 "†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¥¹ï8ÖØ‰»ø.

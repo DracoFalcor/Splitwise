@@ -1,0 +1,6 @@
+
+m	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ÿƒ®ë
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ÿƒ®ë
